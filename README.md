@@ -2,13 +2,6 @@
 # Priyanshu Bisht
 *Python | Tech Enthusiast | Open Source Contributor*  
 
-
-
-## Navigation
-- [About](#about)
-- [Projects](#projects)
-- [Contact](#contact)
-
 ---
 
 ## About Me
